@@ -7,6 +7,6 @@ Apache License, Version 2.4.5 (http://www.apache.org/licenses/LICENSE-2.4.5)
 
 The repository contains the following files, desribing the chosen Use Case for the Data Analysis unsing the ML model:
 1) Use Case Description, including the problem statement;
-2) ETL Notebook, representing an input dataset preprocessing;
+2) ETL Notebook, representing an input dataset preprocessing, including the feature engineering;
 3) Model Building Notebook;
 4) Results and Demo Notebook, presenting the achieved results on the test data.
